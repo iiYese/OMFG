@@ -2,7 +2,7 @@
 
 ## What
 **OMFG** is an accronym for *"Open Modding Framework (for) Games"*. 
-OMFG's function is to be tool for games that rely heavily on community created content that helps them implement in editor modding tools for users.
+OMFG's function is to be tool for games that rely heavily on community created content to help them implement in editor modding tools for users.
 
 ## Why
 Modding exists currently in many games that allow community created content. 
@@ -28,6 +28,7 @@ OMFG leverages this property and is what allows OMFG to be language agnostic and
 - [ ] Use more efficient diff format
 - [ ] Optimize diff and merge algorithms
 - [ ] Exhaustive testing
+- [ ] Exhaustive error handling and friendly messages
 - [ ] Binary Docs
 - [ ] RIIR server
 - [ ] Make server code in companion binary optional
