@@ -1,4 +1,4 @@
-***This is work in progress.***
+***This project is on hiatus.***
 
 ## What
 **OMFG** is an accronym for *"Open Modding Framework (for) Games"*. 
